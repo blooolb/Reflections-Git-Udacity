@@ -22,3 +22,4 @@ The changes of the different branches can be included and incorperated into a si
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Git automatic merging can not automatically differentiate with e.g. code in different branches with new methods with different names and possibly different code but same functionality. Always doing manual merges can be time consuming and expensive, als all changes need to be compared.
